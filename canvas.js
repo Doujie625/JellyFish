@@ -41,7 +41,6 @@ function Ellipse(x, y, radx, rady) {
         c.ellipse(x + 5, y - 60, radx1, rady1, null, 0, 7, false);
         c.fillStyle = '#b668ff'; 
         c.fill();
-    
     }
 }
 
