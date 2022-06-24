@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 canvas.width = innerWidth;
 canvas.height = innerHeight;
 // access to sprite sheet
-
+  
 const jelly = new Image();
 // Initialize random starting postion
 var x = Math.random() * innerWidth;
@@ -63,7 +63,7 @@ function animate() {
 
   //Controlls the speed at which the frames roll
   framesDrawn++;
-  if (framesDrawn >= 10) {
+  if (framesDrawn >= 7) {
     currentFrame++;
     framesDrawn = 0;
   }
