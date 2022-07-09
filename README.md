@@ -20,5 +20,6 @@ Various online resources were imployed to assist in the development of this proj
 
 Introduction to SVG:
 [https://www.youtube.com/watch?v=ZJSCl6XEdP8]
+
 Animating Sprite Sheets:
 [https://www.youtube.com/watch?v=MHGgVlrlkYc]
