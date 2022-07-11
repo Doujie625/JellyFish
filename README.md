@@ -23,3 +23,6 @@ Introduction to SVG:
 
 Animating Sprite Sheets:
 [https://www.youtube.com/watch?v=MHGgVlrlkYc]
+
+Creating React Sprite Animations:
+[https://www.freecodecamp.org/news/learn-advanced-react-patterns-by-developing-a-game-with-sprite-animation-5dc072886975/]
